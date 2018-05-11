@@ -1,0 +1,1750 @@
+﻿Log file open, 05/01/18 11:15:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RecursiveTCC
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1887126822) SRandInit(1887126823).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285206
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.432s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-L5A8SVJ (192.168.0.5:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.01-14.15.23:737][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.01-14.15.23:737][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.01-14.15.23:779][  0]LogInit: Computer: DESKTOP-L5A8SVJ
+[2018.05.01-14.15.23:779][  0]LogInit: User: rotci
+[2018.05.01-14.15.23:780][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.01-14.15.23:780][  0]LogInit: High frequency timer resolution =2.825615 MHz
+[2018.05.01-14.15.23:780][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.01-14.15.23:780][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.01-14.15.23:780][  0]LogMemory: Process Physical Memory: 276.78 MB used, 276.78 MB peak
+[2018.05.01-14.15.23:780][  0]LogMemory: Process Virtual Memory: 270.07 MB used, 270.07 MB peak
+[2018.05.01-14.15.23:780][  0]LogMemory: Physical Memory: 4461.66 MB used,  3712.98 MB free, 8174.64 MB total
+[2018.05.01-14.15.23:781][  0]LogMemory: Virtual Memory: 687.98 MB used,  3712.98 MB free, 134217728.00 MB total
+[2018.05.01-14.15.23:822][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.05.01-14.15.23:822][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.05.01-14.15.24:928][  0]LogStreaming: Display: Took  1.106s to EndInitTextLocalization.
+[2018.05.01-14.15.24:928][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.01-14.15.24:972][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.01-14.15.24:972][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.01-14.15.25:541][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.01-14.15.25:609][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 550 Ti' (Feature Level 11_0)
+[2018.05.01-14.15.25:609][  0]LogD3D11RHI:       979/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.01-14.15.25:613][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.01-14.15.25:613][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.01-14.15.25:613][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.01-14.15.25:624][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.01-14.15.25:625][  0]LogD3D11RHI:     GPU DeviceId: 0x1244 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.01-14.15.25:625][  0]LogWindows: EnumDisplayDevices:
+[2018.05.01-14.15.25:625][  0]LogWindows:    0. 'NVIDIA GeForce GTX 550 Ti' (P:1 D:1)
+[2018.05.01-14.15.25:625][  0]LogWindows:    1. 'NVIDIA GeForce GTX 550 Ti' (P:0 D:1)
+[2018.05.01-14.15.25:626][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.01-14.15.25:626][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 550 Ti
+[2018.05.01-14.15.25:626][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.01-14.15.25:626][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.01-14.15.25:626][  0]LogRHI: Texture pool is 685 MB (70% of 979 MB)
+[2018.05.01-14.15.25:676][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.05.01-14.15.25:677][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.01-14.15.25:677][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.01-14.15.25:704][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.01-14.15.25:758][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/rotci/Documents/Unreal Projects/RecursiveTCC 4.19/Intermediate/Shaders/WorkingDirectory/11780/).
+[2018.05.01-14.15.25:758][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rotci/AppData/Local/Temp/UnrealShaderWorkingDir/D458017343B6E2363C89A1BCCB686910/'.
+[2018.05.01-14.15.26:383][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.01-14.15.26:421][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.01-14.15.26:456][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.01-14.15.26:495][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.01-14.15.26:541][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.01-14.15.26:586][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.01-14.15.26:630][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.01-14.15.26:670][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.01-14.15.26:687][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.01-14.15.26:720][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.01-14.15.26:754][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.01-14.15.26:785][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.01-14.15.26:815][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.01-14.15.26:845][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.01-14.15.26:876][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.01-14.15.26:949][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.01-14.15.26:949][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.01-14.15.26:988][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.01-14.15.26:991][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.01-14.15.27:054][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.01-14.15.27:084][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.01-14.15.27:115][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.01-14.15.27:147][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.01-14.15.27:183][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.01-14.15.27:222][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.01-14.15.27:222][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.01-14.15.27:676][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.01-14.15.27:676][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.01-14.15.27:676][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.01-14.15.30:520][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.01-14.15.30:727][  0]LogDerivedDataCache: Loaded boot cache 0.21s 75MB C:/Users/rotci/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.01-14.15.30:728][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rotci/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.01-14.15.30:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/rotci/Documents/Unreal Projects/RecursiveTCC 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.01-14.15.30:728][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.01-14.15.30:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/rotci/Documents/Unreal Projects/RecursiveTCC 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.01-14.15.30:728][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.01-14.15.30:784][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.01-14.15.30:800][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rotci/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.01-14.15.30:842][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.01-14.15.30:843][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.01-14.15.30:844][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.01-14.15.30:844][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.01-14.15.31:206][  0]LogAssetRegistry: FAssetRegistry took 0.0393 seconds to start up
+[2018.05.01-14.15.32:296][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.01-14.15.32:854][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.01-14.15.32:863][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.01-14.15.32:863][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.01-14.15.32:863][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.01-14.15.32:863][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.01-14.15.32:863][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.01-14.15.32:997][  0]LogNetVersion: RecursiveTCC , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3305110912)
+[2018.05.01-14.15.34:318][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.160274 seconds
+[2018.05.01-14.15.34:333][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.01-14.15.34:333][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.01-14.15.34:333][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.01-14.15.39:803][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.01-14.15.39:874][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.01-14.15.41:011][  0]SourceControl: Source control is disabled
+[2018.05.01-14.15.41:011][  0]SourceControl: Source control is disabled
+[2018.05.01-14.15.41:074][  0]SourceControl: Source control is disabled
+[2018.05.01-14.15.41:159][  0]SourceControl: Source control is disabled
+[2018.05.01-14.15.42:829][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.01-14.15.43:404][  0]LogOcInput: OculusInput pre-init called
+[2018.05.01-14.15.43:748][  0]LogEngine: Initializing Engine...
+[2018.05.01-14.15.43:752][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.01-14.15.43:756][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.01-14.15.43:756][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.01-14.15.44:404][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.01-14.15.44:457][  0]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.01-14.15.44:544][  0]LogInit: FAudioDevice initialized.
+[2018.05.01-14.15.44:741][  0]LogDerivedDataCache: Saved boot cache 0.20s 75MB C:/Users/rotci/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.01-14.15.44:780][  0]LogInit: Texture streaming: Enabled
+[2018.05.01-14.15.44:829][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.01-14.15.44:829][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={C4C8712C-42ED-3166-F9AE-28968313232E}
+[2018.05.01-14.15.44:884][  0]LogInit: Transaction tracking system initialized
+[2018.05.01-14.15.44:976][  0]BlueprintLog: New page: Editor Load
+[2018.05.01-14.15.45:223][  0]LocalizationService: Localization service is disabled
+[2018.05.01-14.15.46:206][  0]LogConsoleResponse: Display: 
+[2018.05.01-14.15.46:600][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.01-14.15.46:601][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.01-14.15.46:601][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.01-14.15.46:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.01-14.15.46:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.01-14.15.47:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rotci/Documents/Unreal Projects/RecursiveTCC 4.19/Content/' took 0.02s
+[2018.05.01-14.15.47:715][  0]SourceControl: Source control is disabled
+[2018.05.01-14.15.47:716][  0]Cmd: MAP LOAD FILE="../../../../../../Users/rotci/Documents/Unreal Projects/RecursiveTCC 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.01-14.15.47:717][  0]LightingResults: New page: Lighting Build
+[2018.05.01-14.15.47:725][  0]MapCheck: New page: Map Check
+[2018.05.01-14.15.47:725][  0]LightingResults: New page: Lighting Build
+[2018.05.01-14.15.48:849][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [17.021427ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.01-14.15.49:123][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.01-14.15.49:139][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPerson/Levels/Teste_1) is flushing async loading
+[2018.05.01-14.15.49:146][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPerson/Levels/Teste_2) is flushing async loading
+[2018.05.01-14.15.49:320][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPerson/Levels/Teste_3) is flushing async loading
+[2018.05.01-14.15.49:326][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.01-14.15.49:354][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.01-14.15.49:470][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.054ms to complete.
+[2018.05.01-14.15.49:470][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.755
+[2018.05.01-14.15.49:664][  0]LogCollectionManager: Loaded 0 collections in 0.003227 seconds
+[2018.05.01-14.15.49:714][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rotci/Documents/Unreal Projects/RecursiveTCC 4.19/Saved/Collections/' took 0.01s
+[2018.05.01-14.15.49:714][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rotci/Documents/Unreal Projects/RecursiveTCC 4.19/Content/Developers/rotci/Collections/' took 0.01s
+[2018.05.01-14.15.49:715][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rotci/Documents/Unreal Projects/RecursiveTCC 4.19/Content/Collections/' took 0.01s
+[2018.05.01-14.15.49:715][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.01-14.15.49:730][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2452 classes and 558 folders.
+[2018.05.01-14.15.49:740][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.01-14.15.49:824][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.01-14.15.49:833][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.01-14.15.49:951][  0]LogSlate: Took 0.000466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.01-14.15.49:954][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.01-14.15.49:971][  0]LogSlate: Took 0.000402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.01-14.15.50:152][  0]LogRenderer: Reallocating scene render targets to support 1268x612 Format 9 NumSamples 1 (Frame:1).
+[2018.05.01-14.15.50:321][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.01-14.15.50:321][  0]LogLoad: (Engine Initialization) Total time: 31.16 seconds
+[2018.05.01-14.15.50:321][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.01-14.15.50:689][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.05.01-14.15.50:775][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.01-14.15.51:370][  2]LogAssetRegistry: Asset discovery search completed in 20.1899 seconds
+[2018.05.01-14.15.51:373][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.01-14.15.51:373][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2018.05.01-14.15.51:693][  3]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.01-14.24.34:134][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.01-14.24.35:418][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.01-14.24.36:561][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.01-14.24.37:084][741]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.05.01-14.24.38:334][741]LogSlate: Took 0.024878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.01-14.24.38:596][742]LogSlate: Took 0.023222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.01-14.24.58:566][689]BlueprintLog: New page: Compile RecursiveLevelAlternative
+[2018.05.01-14.25.02:326][848]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.01-14.25.02:384][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.01-14.25.02:384][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.01-14.25.02:385][848]PIE: New page: PIE session: ThirdPersonExampleMap (May 1, 2018, 8:25:02 AM)
+[2018.05.01-14.25.02:386][848]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.01-14.25.02:429][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043137s)
+[2018.05.01-14.25.02:431][848]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.01-14.25.02:432][848]LogPlayLevel: PIE: World Init took: (0.002321s)
+[2018.05.01-14.25.02:432][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045827s)
+[2018.05.01-14.25.02:486][848]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.01-14.25.02:512][848]LogInit: FAudioDevice initialized.
+[2018.05.01-14.25.02:561][848]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.01-14.25.02:620][848]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.01-11.25.02
+[2018.05.01-14.25.02:621][848]LogWorld: Bringing up level for play took: 0.002481
+[2018.05.01-14.25.02:625][848]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.01-14.25.02:626][848]LogBlueprintUserMessages: [PickupBox_1064] FIRO
+[2018.05.01-14.25.02:627][848]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.192
+[2018.05.01-14.25.02:627][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.01-14.25.04:902][960]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player Entered Area
+[2018.05.01-14.25.04:903][960]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Default Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:563][995]LogBlueprintUserMessages: [PickupBox_C_0] FIRO
+[2018.05.01-14.25.05:564][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:564][995]LogBlueprintUserMessages: [PickupBox_C_1] FIRO
+[2018.05.01-14.25.05:565][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:566][995]LogBlueprintUserMessages: [PickupBox_C_2] FIRO
+[2018.05.01-14.25.05:567][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:568][995]LogBlueprintUserMessages: [PickupBox_C_3] FIRO
+[2018.05.01-14.25.05:569][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:569][995]LogBlueprintUserMessages: [PickupBox_C_4] FIRO
+[2018.05.01-14.25.05:570][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:571][995]LogBlueprintUserMessages: [PickupBox_C_5] FIRO
+[2018.05.01-14.25.05:572][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:573][995]LogBlueprintUserMessages: [PickupBox_C_6] FIRO
+[2018.05.01-14.25.05:574][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:575][995]LogBlueprintUserMessages: [PickupBox_C_7] FIRO
+[2018.05.01-14.25.05:576][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:576][995]LogBlueprintUserMessages: [PickupBox_C_8] FIRO
+[2018.05.01-14.25.05:577][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:578][995]LogBlueprintUserMessages: [PickupBox_C_9] FIRO
+[2018.05.01-14.25.05:579][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:580][995]LogBlueprintUserMessages: [PickupBox_C_10] FIRO
+[2018.05.01-14.25.05:581][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:582][995]LogBlueprintUserMessages: [PickupBox_C_11] FIRO
+[2018.05.01-14.25.05:583][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:584][995]LogBlueprintUserMessages: [PickupBox_C_12] FIRO
+[2018.05.01-14.25.05:585][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:586][995]LogBlueprintUserMessages: [PickupBox_C_13] FIRO
+[2018.05.01-14.25.05:587][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:587][995]LogBlueprintUserMessages: [PickupBox_C_14] FIRO
+[2018.05.01-14.25.05:588][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:589][995]LogBlueprintUserMessages: [PickupBox_C_15] FIRO
+[2018.05.01-14.25.05:590][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:591][995]LogBlueprintUserMessages: [PickupBox_C_16] FIRO
+[2018.05.01-14.25.05:592][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:593][995]LogBlueprintUserMessages: [PickupBox_C_17] FIRO
+[2018.05.01-14.25.05:594][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:594][995]LogBlueprintUserMessages: [PickupBox_C_18] FIRO
+[2018.05.01-14.25.05:596][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:596][995]LogBlueprintUserMessages: [PickupBox_C_19] FIRO
+[2018.05.01-14.25.05:597][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:598][995]LogBlueprintUserMessages: [PickupBox_C_20] FIRO
+[2018.05.01-14.25.05:599][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:600][995]LogBlueprintUserMessages: [PickupBox_C_21] FIRO
+[2018.05.01-14.25.05:601][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:602][995]LogBlueprintUserMessages: [PickupBox_C_22] FIRO
+[2018.05.01-14.25.05:603][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:604][995]LogBlueprintUserMessages: [PickupBox_C_23] FIRO
+[2018.05.01-14.25.05:605][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:606][995]LogBlueprintUserMessages: [PickupBox_C_24] FIRO
+[2018.05.01-14.25.05:607][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:608][995]LogBlueprintUserMessages: [PickupBox_C_25] FIRO
+[2018.05.01-14.25.05:609][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:610][995]LogBlueprintUserMessages: [PickupBox_C_26] FIRO
+[2018.05.01-14.25.05:611][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:612][995]LogBlueprintUserMessages: [PickupBox_C_27] FIRO
+[2018.05.01-14.25.05:613][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:613][995]LogBlueprintUserMessages: [PickupBox_C_28] FIRO
+[2018.05.01-14.25.05:615][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:616][995]LogBlueprintUserMessages: [PickupBox_C_29] FIRO
+[2018.05.01-14.25.05:617][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:618][995]LogBlueprintUserMessages: [PickupBox_C_30] FIRO
+[2018.05.01-14.25.05:619][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:620][995]LogBlueprintUserMessages: [PickupBox_C_31] FIRO
+[2018.05.01-14.25.05:621][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:622][995]LogBlueprintUserMessages: [PickupBox_C_32] FIRO
+[2018.05.01-14.25.05:623][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:624][995]LogBlueprintUserMessages: [PickupBox_C_33] FIRO
+[2018.05.01-14.25.05:625][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:626][995]LogBlueprintUserMessages: [PickupBox_C_34] FIRO
+[2018.05.01-14.25.05:627][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:628][995]LogBlueprintUserMessages: [PickupBox_C_35] FIRO
+[2018.05.01-14.25.05:629][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:630][995]LogBlueprintUserMessages: [PickupBox_C_36] FIRO
+[2018.05.01-14.25.05:631][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:632][995]LogBlueprintUserMessages: [PickupBox_C_37] FIRO
+[2018.05.01-14.25.05:633][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:634][995]LogBlueprintUserMessages: [PickupBox_C_38] FIRO
+[2018.05.01-14.25.05:636][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:636][995]LogBlueprintUserMessages: [PickupBox_C_39] FIRO
+[2018.05.01-14.25.05:638][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:639][995]LogBlueprintUserMessages: [PickupBox_C_40] FIRO
+[2018.05.01-14.25.05:640][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:641][995]LogBlueprintUserMessages: [PickupBox_C_41] FIRO
+[2018.05.01-14.25.05:642][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:643][995]LogBlueprintUserMessages: [PickupBox_C_42] FIRO
+[2018.05.01-14.25.05:645][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:645][995]LogBlueprintUserMessages: [PickupBox_C_43] FIRO
+[2018.05.01-14.25.05:647][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:648][995]LogBlueprintUserMessages: [PickupBox_C_44] FIRO
+[2018.05.01-14.25.05:650][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:650][995]LogBlueprintUserMessages: [PickupBox_C_45] FIRO
+[2018.05.01-14.25.05:652][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:653][995]LogBlueprintUserMessages: [PickupBox_C_46] FIRO
+[2018.05.01-14.25.05:654][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:655][995]LogBlueprintUserMessages: [PickupBox_C_47] FIRO
+[2018.05.01-14.25.05:657][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:657][995]LogBlueprintUserMessages: [PickupBox_C_48] FIRO
+[2018.05.01-14.25.05:659][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:660][995]LogBlueprintUserMessages: [PickupBox_C_49] FIRO
+[2018.05.01-14.25.05:661][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:662][995]LogBlueprintUserMessages: [PickupBox_C_50] FIRO
+[2018.05.01-14.25.05:664][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:664][995]LogBlueprintUserMessages: [PickupBox_C_51] FIRO
+[2018.05.01-14.25.05:666][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:667][995]LogBlueprintUserMessages: [PickupBox_C_52] FIRO
+[2018.05.01-14.25.05:669][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:669][995]LogBlueprintUserMessages: [PickupBox_C_53] FIRO
+[2018.05.01-14.25.05:671][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:672][995]LogBlueprintUserMessages: [PickupBox_C_54] FIRO
+[2018.05.01-14.25.05:674][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:674][995]LogBlueprintUserMessages: [PickupBox_C_55] FIRO
+[2018.05.01-14.25.05:676][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:677][995]LogBlueprintUserMessages: [PickupBox_C_56] FIRO
+[2018.05.01-14.25.05:679][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:680][995]LogBlueprintUserMessages: [PickupBox_C_57] FIRO
+[2018.05.01-14.25.05:681][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:682][995]LogBlueprintUserMessages: [PickupBox_C_58] FIRO
+[2018.05.01-14.25.05:684][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:685][995]LogBlueprintUserMessages: [PickupBox_C_59] FIRO
+[2018.05.01-14.25.05:687][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:687][995]LogBlueprintUserMessages: [PickupBox_C_60] FIRO
+[2018.05.01-14.25.05:689][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:690][995]LogBlueprintUserMessages: [PickupBox_C_61] FIRO
+[2018.05.01-14.25.05:691][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:692][995]LogBlueprintUserMessages: [PickupBox_C_62] FIRO
+[2018.05.01-14.25.05:694][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:695][995]LogBlueprintUserMessages: [PickupBox_C_63] FIRO
+[2018.05.01-14.25.05:697][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:698][995]LogBlueprintUserMessages: [PickupBox_C_64] FIRO
+[2018.05.01-14.25.05:700][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:701][995]LogBlueprintUserMessages: [PickupBox_C_65] FIRO
+[2018.05.01-14.25.05:703][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:704][995]LogBlueprintUserMessages: [PickupBox_C_66] FIRO
+[2018.05.01-14.25.05:706][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:707][995]LogBlueprintUserMessages: [PickupBox_C_67] FIRO
+[2018.05.01-14.25.05:709][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:710][995]LogBlueprintUserMessages: [PickupBox_C_68] FIRO
+[2018.05.01-14.25.05:713][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:713][995]LogBlueprintUserMessages: [PickupBox_C_69] FIRO
+[2018.05.01-14.25.05:716][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:717][995]LogBlueprintUserMessages: [PickupBox_C_70] FIRO
+[2018.05.01-14.25.05:719][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:720][995]LogBlueprintUserMessages: [PickupBox_C_71] FIRO
+[2018.05.01-14.25.05:722][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:723][995]LogBlueprintUserMessages: [PickupBox_C_72] FIRO
+[2018.05.01-14.25.05:725][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:726][995]LogBlueprintUserMessages: [PickupBox_C_73] FIRO
+[2018.05.01-14.25.05:728][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:729][995]LogBlueprintUserMessages: [PickupBox_C_74] FIRO
+[2018.05.01-14.25.05:732][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:733][995]LogBlueprintUserMessages: [PickupBox_C_75] FIRO
+[2018.05.01-14.25.05:735][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:736][995]LogBlueprintUserMessages: [PickupBox_C_76] FIRO
+[2018.05.01-14.25.05:739][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:739][995]LogBlueprintUserMessages: [PickupBox_C_77] FIRO
+[2018.05.01-14.25.05:742][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:743][995]LogBlueprintUserMessages: [PickupBox_C_78] FIRO
+[2018.05.01-14.25.05:745][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:746][995]LogBlueprintUserMessages: [PickupBox_C_79] FIRO
+[2018.05.01-14.25.05:748][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:749][995]LogBlueprintUserMessages: [PickupBox_C_80] FIRO
+[2018.05.01-14.25.05:752][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:753][995]LogBlueprintUserMessages: [PickupBox_C_81] FIRO
+[2018.05.01-14.25.05:755][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:756][995]LogBlueprintUserMessages: [PickupBox_C_82] FIRO
+[2018.05.01-14.25.05:759][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:760][995]LogBlueprintUserMessages: [PickupBox_C_83] FIRO
+[2018.05.01-14.25.05:762][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:763][995]LogBlueprintUserMessages: [PickupBox_C_84] FIRO
+[2018.05.01-14.25.05:765][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:766][995]LogBlueprintUserMessages: [PickupBox_C_85] FIRO
+[2018.05.01-14.25.05:769][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:770][995]LogBlueprintUserMessages: [PickupBox_C_86] FIRO
+[2018.05.01-14.25.05:773][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:773][995]LogBlueprintUserMessages: [PickupBox_C_87] FIRO
+[2018.05.01-14.25.05:776][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:777][995]LogBlueprintUserMessages: [PickupBox_C_88] FIRO
+[2018.05.01-14.25.05:780][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:781][995]LogBlueprintUserMessages: [PickupBox_C_89] FIRO
+[2018.05.01-14.25.05:784][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:784][995]LogBlueprintUserMessages: [PickupBox_C_90] FIRO
+[2018.05.01-14.25.05:787][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:788][995]LogBlueprintUserMessages: [PickupBox_C_91] FIRO
+[2018.05.01-14.25.05:791][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:791][995]LogBlueprintUserMessages: [PickupBox_C_92] FIRO
+[2018.05.01-14.25.05:794][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:795][995]LogBlueprintUserMessages: [PickupBox_C_93] FIRO
+[2018.05.01-14.25.05:797][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:798][995]LogBlueprintUserMessages: [PickupBox_C_94] FIRO
+[2018.05.01-14.25.05:801][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:802][995]LogBlueprintUserMessages: [PickupBox_C_95] FIRO
+[2018.05.01-14.25.05:805][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:806][995]LogBlueprintUserMessages: [PickupBox_C_96] FIRO
+[2018.05.01-14.25.05:809][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:810][995]LogBlueprintUserMessages: [PickupBox_C_97] FIRO
+[2018.05.01-14.25.05:813][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:813][995]LogBlueprintUserMessages: [PickupBox_C_98] FIRO
+[2018.05.01-14.25.05:817][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:817][995]LogBlueprintUserMessages: [PickupBox_C_99] FIRO
+[2018.05.01-14.25.05:820][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:821][995]LogBlueprintUserMessages: [PickupBox_C_100] FIRO
+[2018.05.01-14.25.05:824][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:824][995]LogBlueprintUserMessages: [PickupBox_C_101] FIRO
+[2018.05.01-14.25.05:827][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:829][995]LogBlueprintUserMessages: [PickupBox_C_102] FIRO
+[2018.05.01-14.25.05:832][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:833][995]LogBlueprintUserMessages: [PickupBox_C_103] FIRO
+[2018.05.01-14.25.05:836][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:837][995]LogBlueprintUserMessages: [PickupBox_C_104] FIRO
+[2018.05.01-14.25.05:840][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:841][995]LogBlueprintUserMessages: [PickupBox_C_105] FIRO
+[2018.05.01-14.25.05:844][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:845][995]LogBlueprintUserMessages: [PickupBox_C_106] FIRO
+[2018.05.01-14.25.05:848][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:849][995]LogBlueprintUserMessages: [PickupBox_C_107] FIRO
+[2018.05.01-14.25.05:852][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:853][995]LogBlueprintUserMessages: [PickupBox_C_108] FIRO
+[2018.05.01-14.25.05:856][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:857][995]LogBlueprintUserMessages: [PickupBox_C_109] FIRO
+[2018.05.01-14.25.05:860][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:861][995]LogBlueprintUserMessages: [PickupBox_C_110] FIRO
+[2018.05.01-14.25.05:864][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:865][995]LogBlueprintUserMessages: [PickupBox_C_111] FIRO
+[2018.05.01-14.25.05:869][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:870][995]LogBlueprintUserMessages: [PickupBox_C_112] FIRO
+[2018.05.01-14.25.05:873][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:874][995]LogBlueprintUserMessages: [PickupBox_C_113] FIRO
+[2018.05.01-14.25.05:878][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:879][995]LogBlueprintUserMessages: [PickupBox_C_114] FIRO
+[2018.05.01-14.25.05:883][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:883][995]LogBlueprintUserMessages: [PickupBox_C_115] FIRO
+[2018.05.01-14.25.05:887][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:888][995]LogBlueprintUserMessages: [PickupBox_C_116] FIRO
+[2018.05.01-14.25.05:892][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:892][995]LogBlueprintUserMessages: [PickupBox_C_117] FIRO
+[2018.05.01-14.25.05:896][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:897][995]LogBlueprintUserMessages: [PickupBox_C_118] FIRO
+[2018.05.01-14.25.05:901][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:902][995]LogBlueprintUserMessages: [PickupBox_C_119] FIRO
+[2018.05.01-14.25.05:905][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:906][995]LogBlueprintUserMessages: [PickupBox_C_120] FIRO
+[2018.05.01-14.25.05:910][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:911][995]LogBlueprintUserMessages: [PickupBox_C_121] FIRO
+[2018.05.01-14.25.05:914][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:915][995]LogBlueprintUserMessages: [PickupBox_C_122] FIRO
+[2018.05.01-14.25.05:919][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:920][995]LogBlueprintUserMessages: [PickupBox_C_123] FIRO
+[2018.05.01-14.25.05:923][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:924][995]LogBlueprintUserMessages: [PickupBox_C_124] FIRO
+[2018.05.01-14.25.05:928][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:929][995]LogBlueprintUserMessages: [PickupBox_C_125] FIRO
+[2018.05.01-14.25.05:932][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:933][995]LogBlueprintUserMessages: [PickupBox_C_126] FIRO
+[2018.05.01-14.25.05:937][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:938][995]LogBlueprintUserMessages: [PickupBox_C_127] FIRO
+[2018.05.01-14.25.05:942][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:943][995]LogBlueprintUserMessages: [PickupBox_C_128] FIRO
+[2018.05.01-14.25.05:947][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:948][995]LogBlueprintUserMessages: [PickupBox_C_129] FIRO
+[2018.05.01-14.25.05:952][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:953][995]LogBlueprintUserMessages: [PickupBox_C_130] FIRO
+[2018.05.01-14.25.05:957][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:957][995]LogBlueprintUserMessages: [PickupBox_C_131] FIRO
+[2018.05.01-14.25.05:961][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:962][995]LogBlueprintUserMessages: [PickupBox_C_132] FIRO
+[2018.05.01-14.25.05:966][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:967][995]LogBlueprintUserMessages: [PickupBox_C_133] FIRO
+[2018.05.01-14.25.05:971][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:972][995]LogBlueprintUserMessages: [PickupBox_C_134] FIRO
+[2018.05.01-14.25.05:975][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:976][995]LogBlueprintUserMessages: [PickupBox_C_135] FIRO
+[2018.05.01-14.25.05:980][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:981][995]LogBlueprintUserMessages: [PickupBox_C_136] FIRO
+[2018.05.01-14.25.05:985][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:986][995]LogBlueprintUserMessages: [PickupBox_C_137] FIRO
+[2018.05.01-14.25.05:990][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:991][995]LogBlueprintUserMessages: [PickupBox_C_138] FIRO
+[2018.05.01-14.25.05:995][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.05:996][995]LogBlueprintUserMessages: [PickupBox_C_139] FIRO
+[2018.05.01-14.25.06:001][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:002][995]LogBlueprintUserMessages: [PickupBox_C_140] FIRO
+[2018.05.01-14.25.06:007][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:008][995]LogBlueprintUserMessages: [PickupBox_C_141] FIRO
+[2018.05.01-14.25.06:012][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:013][995]LogBlueprintUserMessages: [PickupBox_C_142] FIRO
+[2018.05.01-14.25.06:017][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:018][995]LogBlueprintUserMessages: [PickupBox_C_143] FIRO
+[2018.05.01-14.25.06:023][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:024][995]LogBlueprintUserMessages: [PickupBox_C_144] FIRO
+[2018.05.01-14.25.06:028][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:029][995]LogBlueprintUserMessages: [PickupBox_C_145] FIRO
+[2018.05.01-14.25.06:034][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:035][995]LogBlueprintUserMessages: [PickupBox_C_146] FIRO
+[2018.05.01-14.25.06:039][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:040][995]LogBlueprintUserMessages: [PickupBox_C_147] FIRO
+[2018.05.01-14.25.06:044][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:045][995]LogBlueprintUserMessages: [PickupBox_C_148] FIRO
+[2018.05.01-14.25.06:050][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:051][995]LogBlueprintUserMessages: [PickupBox_C_149] FIRO
+[2018.05.01-14.25.06:055][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:056][995]LogBlueprintUserMessages: [PickupBox_C_150] FIRO
+[2018.05.01-14.25.06:060][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:061][995]LogBlueprintUserMessages: [PickupBox_C_151] FIRO
+[2018.05.01-14.25.06:066][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:067][995]LogBlueprintUserMessages: [PickupBox_C_152] FIRO
+[2018.05.01-14.25.06:072][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:072][995]LogBlueprintUserMessages: [PickupBox_C_153] FIRO
+[2018.05.01-14.25.06:077][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:078][995]LogBlueprintUserMessages: [PickupBox_C_154] FIRO
+[2018.05.01-14.25.06:083][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:084][995]LogBlueprintUserMessages: [PickupBox_C_155] FIRO
+[2018.05.01-14.25.06:089][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:090][995]LogBlueprintUserMessages: [PickupBox_C_156] FIRO
+[2018.05.01-14.25.06:095][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:096][995]LogBlueprintUserMessages: [PickupBox_C_157] FIRO
+[2018.05.01-14.25.06:102][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:103][995]LogBlueprintUserMessages: [PickupBox_C_158] FIRO
+[2018.05.01-14.25.06:108][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:109][995]LogBlueprintUserMessages: [PickupBox_C_159] FIRO
+[2018.05.01-14.25.06:115][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:116][995]LogBlueprintUserMessages: [PickupBox_C_160] FIRO
+[2018.05.01-14.25.06:121][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:122][995]LogBlueprintUserMessages: [PickupBox_C_161] FIRO
+[2018.05.01-14.25.06:127][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:128][995]LogBlueprintUserMessages: [PickupBox_C_162] FIRO
+[2018.05.01-14.25.06:134][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:135][995]LogBlueprintUserMessages: [PickupBox_C_163] FIRO
+[2018.05.01-14.25.06:140][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:141][995]LogBlueprintUserMessages: [PickupBox_C_164] FIRO
+[2018.05.01-14.25.06:147][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:148][995]LogBlueprintUserMessages: [PickupBox_C_165] FIRO
+[2018.05.01-14.25.06:154][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:154][995]LogBlueprintUserMessages: [PickupBox_C_166] FIRO
+[2018.05.01-14.25.06:160][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:161][995]LogBlueprintUserMessages: [PickupBox_C_167] FIRO
+[2018.05.01-14.25.06:167][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:168][995]LogBlueprintUserMessages: [PickupBox_C_168] FIRO
+[2018.05.01-14.25.06:174][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:175][995]LogBlueprintUserMessages: [PickupBox_C_169] FIRO
+[2018.05.01-14.25.06:181][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:182][995]LogBlueprintUserMessages: [PickupBox_C_170] FIRO
+[2018.05.01-14.25.06:189][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:190][995]LogBlueprintUserMessages: [PickupBox_C_171] FIRO
+[2018.05.01-14.25.06:196][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:197][995]LogBlueprintUserMessages: [PickupBox_C_172] FIRO
+[2018.05.01-14.25.06:203][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:204][995]LogBlueprintUserMessages: [PickupBox_C_173] FIRO
+[2018.05.01-14.25.06:211][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:212][995]LogBlueprintUserMessages: [PickupBox_C_174] FIRO
+[2018.05.01-14.25.06:218][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:219][995]LogBlueprintUserMessages: [PickupBox_C_175] FIRO
+[2018.05.01-14.25.06:226][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:227][995]LogBlueprintUserMessages: [PickupBox_C_176] FIRO
+[2018.05.01-14.25.06:233][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:234][995]LogBlueprintUserMessages: [PickupBox_C_177] FIRO
+[2018.05.01-14.25.06:240][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:241][995]LogBlueprintUserMessages: [PickupBox_C_178] FIRO
+[2018.05.01-14.25.06:249][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:250][995]LogBlueprintUserMessages: [PickupBox_C_179] FIRO
+[2018.05.01-14.25.06:257][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:258][995]LogBlueprintUserMessages: [PickupBox_C_180] FIRO
+[2018.05.01-14.25.06:265][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:266][995]LogBlueprintUserMessages: [PickupBox_C_181] FIRO
+[2018.05.01-14.25.06:273][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:274][995]LogBlueprintUserMessages: [PickupBox_C_182] FIRO
+[2018.05.01-14.25.06:281][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:282][995]LogBlueprintUserMessages: [PickupBox_C_183] FIRO
+[2018.05.01-14.25.06:289][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:290][995]LogBlueprintUserMessages: [PickupBox_C_184] FIRO
+[2018.05.01-14.25.06:297][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:298][995]LogBlueprintUserMessages: [PickupBox_C_185] FIRO
+[2018.05.01-14.25.06:305][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:306][995]LogBlueprintUserMessages: [PickupBox_C_186] FIRO
+[2018.05.01-14.25.06:314][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:315][995]LogBlueprintUserMessages: [PickupBox_C_187] FIRO
+[2018.05.01-14.25.06:323][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:324][995]LogBlueprintUserMessages: [PickupBox_C_188] FIRO
+[2018.05.01-14.25.06:331][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:332][995]LogBlueprintUserMessages: [PickupBox_C_189] FIRO
+[2018.05.01-14.25.06:340][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:341][995]LogBlueprintUserMessages: [PickupBox_C_190] FIRO
+[2018.05.01-14.25.06:349][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:350][995]LogBlueprintUserMessages: [PickupBox_C_191] FIRO
+[2018.05.01-14.25.06:357][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:358][995]LogBlueprintUserMessages: [PickupBox_C_192] FIRO
+[2018.05.01-14.25.06:365][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:367][995]LogBlueprintUserMessages: [PickupBox_C_193] FIRO
+[2018.05.01-14.25.06:374][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:375][995]LogBlueprintUserMessages: [PickupBox_C_194] FIRO
+[2018.05.01-14.25.06:382][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:384][995]LogBlueprintUserMessages: [PickupBox_C_195] FIRO
+[2018.05.01-14.25.06:391][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:392][995]LogBlueprintUserMessages: [PickupBox_C_196] FIRO
+[2018.05.01-14.25.06:399][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:400][995]LogBlueprintUserMessages: [PickupBox_C_197] FIRO
+[2018.05.01-14.25.06:408][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:409][995]LogBlueprintUserMessages: [PickupBox_C_198] FIRO
+[2018.05.01-14.25.06:417][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:418][995]LogBlueprintUserMessages: [PickupBox_C_199] FIRO
+[2018.05.01-14.25.06:426][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:428][995]LogBlueprintUserMessages: [PickupBox_C_200] FIRO
+[2018.05.01-14.25.06:436][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:437][995]LogBlueprintUserMessages: [PickupBox_C_201] FIRO
+[2018.05.01-14.25.06:445][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:446][995]LogBlueprintUserMessages: [PickupBox_C_202] FIRO
+[2018.05.01-14.25.06:454][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:455][995]LogBlueprintUserMessages: [PickupBox_C_203] FIRO
+[2018.05.01-14.25.06:463][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:464][995]LogBlueprintUserMessages: [PickupBox_C_204] FIRO
+[2018.05.01-14.25.06:472][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:473][995]LogBlueprintUserMessages: [PickupBox_C_205] FIRO
+[2018.05.01-14.25.06:481][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:482][995]LogBlueprintUserMessages: [PickupBox_C_206] FIRO
+[2018.05.01-14.25.06:489][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:490][995]LogBlueprintUserMessages: [PickupBox_C_207] FIRO
+[2018.05.01-14.25.06:498][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:499][995]LogBlueprintUserMessages: [PickupBox_C_208] FIRO
+[2018.05.01-14.25.06:507][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:508][995]LogBlueprintUserMessages: [PickupBox_C_209] FIRO
+[2018.05.01-14.25.06:515][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:516][995]LogBlueprintUserMessages: [PickupBox_C_210] FIRO
+[2018.05.01-14.25.06:523][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:524][995]LogBlueprintUserMessages: [PickupBox_C_211] FIRO
+[2018.05.01-14.25.06:533][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:534][995]LogBlueprintUserMessages: [PickupBox_C_212] FIRO
+[2018.05.01-14.25.06:541][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:542][995]LogBlueprintUserMessages: [PickupBox_C_213] FIRO
+[2018.05.01-14.25.06:550][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:551][995]LogBlueprintUserMessages: [PickupBox_C_214] FIRO
+[2018.05.01-14.25.06:559][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:560][995]LogBlueprintUserMessages: [PickupBox_C_215] FIRO
+[2018.05.01-14.25.06:568][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:569][995]LogBlueprintUserMessages: [PickupBox_C_216] FIRO
+[2018.05.01-14.25.06:576][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:577][995]LogBlueprintUserMessages: [PickupBox_C_217] FIRO
+[2018.05.01-14.25.06:585][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:586][995]LogBlueprintUserMessages: [PickupBox_C_218] FIRO
+[2018.05.01-14.25.06:594][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:595][995]LogBlueprintUserMessages: [PickupBox_C_219] FIRO
+[2018.05.01-14.25.06:604][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:605][995]LogBlueprintUserMessages: [PickupBox_C_220] FIRO
+[2018.05.01-14.25.06:613][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:614][995]LogBlueprintUserMessages: [PickupBox_C_221] FIRO
+[2018.05.01-14.25.06:621][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:622][995]LogBlueprintUserMessages: [PickupBox_C_222] FIRO
+[2018.05.01-14.25.06:630][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:631][995]LogBlueprintUserMessages: [PickupBox_C_223] FIRO
+[2018.05.01-14.25.06:639][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:640][995]LogBlueprintUserMessages: [PickupBox_C_224] FIRO
+[2018.05.01-14.25.06:648][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:649][995]LogBlueprintUserMessages: [PickupBox_C_225] FIRO
+[2018.05.01-14.25.06:657][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:658][995]LogBlueprintUserMessages: [PickupBox_C_226] FIRO
+[2018.05.01-14.25.06:667][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:668][995]LogBlueprintUserMessages: [PickupBox_C_227] FIRO
+[2018.05.01-14.25.06:678][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:679][995]LogBlueprintUserMessages: [PickupBox_C_228] FIRO
+[2018.05.01-14.25.06:688][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:689][995]LogBlueprintUserMessages: [PickupBox_C_229] FIRO
+[2018.05.01-14.25.06:698][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:699][995]LogBlueprintUserMessages: [PickupBox_C_230] FIRO
+[2018.05.01-14.25.06:708][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:709][995]LogBlueprintUserMessages: [PickupBox_C_231] FIRO
+[2018.05.01-14.25.06:718][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:719][995]LogBlueprintUserMessages: [PickupBox_C_232] FIRO
+[2018.05.01-14.25.06:728][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:729][995]LogBlueprintUserMessages: [PickupBox_C_233] FIRO
+[2018.05.01-14.25.06:738][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:739][995]LogBlueprintUserMessages: [PickupBox_C_234] FIRO
+[2018.05.01-14.25.06:747][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:748][995]LogBlueprintUserMessages: [PickupBox_C_235] FIRO
+[2018.05.01-14.25.06:757][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:758][995]LogBlueprintUserMessages: [PickupBox_C_236] FIRO
+[2018.05.01-14.25.06:767][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:768][995]LogBlueprintUserMessages: [PickupBox_C_237] FIRO
+[2018.05.01-14.25.06:777][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:778][995]LogBlueprintUserMessages: [PickupBox_C_238] FIRO
+[2018.05.01-14.25.06:787][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:788][995]LogBlueprintUserMessages: [PickupBox_C_239] FIRO
+[2018.05.01-14.25.06:797][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:798][995]LogBlueprintUserMessages: [PickupBox_C_240] FIRO
+[2018.05.01-14.25.06:807][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:808][995]LogBlueprintUserMessages: [PickupBox_C_241] FIRO
+[2018.05.01-14.25.06:817][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:818][995]LogBlueprintUserMessages: [PickupBox_C_242] FIRO
+[2018.05.01-14.25.06:827][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:828][995]LogBlueprintUserMessages: [PickupBox_C_243] FIRO
+[2018.05.01-14.25.06:838][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:839][995]LogBlueprintUserMessages: [PickupBox_C_244] FIRO
+[2018.05.01-14.25.06:848][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:849][995]LogBlueprintUserMessages: [PickupBox_C_245] FIRO
+[2018.05.01-14.25.06:858][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:859][995]LogBlueprintUserMessages: [PickupBox_C_246] FIRO
+[2018.05.01-14.25.06:869][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:870][995]LogBlueprintUserMessages: [PickupBox_C_247] FIRO
+[2018.05.01-14.25.06:880][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:881][995]LogBlueprintUserMessages: [PickupBox_C_248] FIRO
+[2018.05.01-14.25.06:891][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:892][995]LogBlueprintUserMessages: [PickupBox_C_249] FIRO
+[2018.05.01-14.25.06:902][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:904][995]LogBlueprintUserMessages: [PickupBox_C_250] FIRO
+[2018.05.01-14.25.06:914][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:916][995]LogBlueprintUserMessages: [PickupBox_C_251] FIRO
+[2018.05.01-14.25.06:926][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:927][995]LogBlueprintUserMessages: [PickupBox_C_252] FIRO
+[2018.05.01-14.25.06:938][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:939][995]LogBlueprintUserMessages: [PickupBox_C_253] FIRO
+[2018.05.01-14.25.06:949][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:950][995]LogBlueprintUserMessages: [PickupBox_C_254] FIRO
+[2018.05.01-14.25.06:960][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:962][995]LogBlueprintUserMessages: [PickupBox_C_255] FIRO
+[2018.05.01-14.25.06:973][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:974][995]LogBlueprintUserMessages: [PickupBox_C_256] FIRO
+[2018.05.01-14.25.06:985][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:986][995]LogBlueprintUserMessages: [PickupBox_C_257] FIRO
+[2018.05.01-14.25.06:996][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.06:997][995]LogBlueprintUserMessages: [PickupBox_C_258] FIRO
+[2018.05.01-14.25.07:008][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:009][995]LogBlueprintUserMessages: [PickupBox_C_259] FIRO
+[2018.05.01-14.25.07:019][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:020][995]LogBlueprintUserMessages: [PickupBox_C_260] FIRO
+[2018.05.01-14.25.07:030][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:032][995]LogBlueprintUserMessages: [PickupBox_C_261] FIRO
+[2018.05.01-14.25.07:042][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:043][995]LogBlueprintUserMessages: [PickupBox_C_262] FIRO
+[2018.05.01-14.25.07:052][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:053][995]LogBlueprintUserMessages: [PickupBox_C_263] FIRO
+[2018.05.01-14.25.07:064][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:065][995]LogBlueprintUserMessages: [PickupBox_C_264] FIRO
+[2018.05.01-14.25.07:075][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:076][995]LogBlueprintUserMessages: [PickupBox_C_265] FIRO
+[2018.05.01-14.25.07:085][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:086][995]LogBlueprintUserMessages: [PickupBox_C_266] FIRO
+[2018.05.01-14.25.07:096][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:097][995]LogBlueprintUserMessages: [PickupBox_C_267] FIRO
+[2018.05.01-14.25.07:107][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:108][995]LogBlueprintUserMessages: [PickupBox_C_268] FIRO
+[2018.05.01-14.25.07:118][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:119][995]LogBlueprintUserMessages: [PickupBox_C_269] FIRO
+[2018.05.01-14.25.07:130][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:131][995]LogBlueprintUserMessages: [PickupBox_C_270] FIRO
+[2018.05.01-14.25.07:141][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:142][995]LogBlueprintUserMessages: [PickupBox_C_271] FIRO
+[2018.05.01-14.25.07:153][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:154][995]LogBlueprintUserMessages: [PickupBox_C_272] FIRO
+[2018.05.01-14.25.07:164][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:165][995]LogBlueprintUserMessages: [PickupBox_C_273] FIRO
+[2018.05.01-14.25.07:175][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:176][995]LogBlueprintUserMessages: [PickupBox_C_274] FIRO
+[2018.05.01-14.25.07:187][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:188][995]LogBlueprintUserMessages: [PickupBox_C_275] FIRO
+[2018.05.01-14.25.07:199][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:200][995]LogBlueprintUserMessages: [PickupBox_C_276] FIRO
+[2018.05.01-14.25.07:211][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:212][995]LogBlueprintUserMessages: [PickupBox_C_277] FIRO
+[2018.05.01-14.25.07:223][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:224][995]LogBlueprintUserMessages: [PickupBox_C_278] FIRO
+[2018.05.01-14.25.07:235][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:236][995]LogBlueprintUserMessages: [PickupBox_C_279] FIRO
+[2018.05.01-14.25.07:248][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:249][995]LogBlueprintUserMessages: [PickupBox_C_280] FIRO
+[2018.05.01-14.25.07:260][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:261][995]LogBlueprintUserMessages: [PickupBox_C_281] FIRO
+[2018.05.01-14.25.07:273][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:274][995]LogBlueprintUserMessages: [PickupBox_C_282] FIRO
+[2018.05.01-14.25.07:285][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:286][995]LogBlueprintUserMessages: [PickupBox_C_283] FIRO
+[2018.05.01-14.25.07:298][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:299][995]LogBlueprintUserMessages: [PickupBox_C_284] FIRO
+[2018.05.01-14.25.07:310][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:311][995]LogBlueprintUserMessages: [PickupBox_C_285] FIRO
+[2018.05.01-14.25.07:322][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:322][995]LogBlueprintUserMessages: [PickupBox_C_286] FIRO
+[2018.05.01-14.25.07:333][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:334][995]LogBlueprintUserMessages: [PickupBox_C_287] FIRO
+[2018.05.01-14.25.07:345][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:346][995]LogBlueprintUserMessages: [PickupBox_C_288] FIRO
+[2018.05.01-14.25.07:358][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:359][995]LogBlueprintUserMessages: [PickupBox_C_289] FIRO
+[2018.05.01-14.25.07:372][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:373][995]LogBlueprintUserMessages: [PickupBox_C_290] FIRO
+[2018.05.01-14.25.07:386][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:387][995]LogBlueprintUserMessages: [PickupBox_C_291] FIRO
+[2018.05.01-14.25.07:400][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:401][995]LogBlueprintUserMessages: [PickupBox_C_292] FIRO
+[2018.05.01-14.25.07:414][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:415][995]LogBlueprintUserMessages: [PickupBox_C_293] FIRO
+[2018.05.01-14.25.07:428][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:429][995]LogBlueprintUserMessages: [PickupBox_C_294] FIRO
+[2018.05.01-14.25.07:443][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:444][995]LogBlueprintUserMessages: [PickupBox_C_295] FIRO
+[2018.05.01-14.25.07:456][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:457][995]LogBlueprintUserMessages: [PickupBox_C_296] FIRO
+[2018.05.01-14.25.07:469][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:470][995]LogBlueprintUserMessages: [PickupBox_C_297] FIRO
+[2018.05.01-14.25.07:482][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:483][995]LogBlueprintUserMessages: [PickupBox_C_298] FIRO
+[2018.05.01-14.25.07:495][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:497][995]LogBlueprintUserMessages: [PickupBox_C_299] FIRO
+[2018.05.01-14.25.07:508][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:509][995]LogBlueprintUserMessages: [PickupBox_C_300] FIRO
+[2018.05.01-14.25.07:521][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:522][995]LogBlueprintUserMessages: [PickupBox_C_301] FIRO
+[2018.05.01-14.25.07:533][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:534][995]LogBlueprintUserMessages: [PickupBox_C_302] FIRO
+[2018.05.01-14.25.07:545][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:546][995]LogBlueprintUserMessages: [PickupBox_C_303] FIRO
+[2018.05.01-14.25.07:558][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:559][995]LogBlueprintUserMessages: [PickupBox_C_304] FIRO
+[2018.05.01-14.25.07:571][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:572][995]LogBlueprintUserMessages: [PickupBox_C_305] FIRO
+[2018.05.01-14.25.07:584][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:585][995]LogBlueprintUserMessages: [PickupBox_C_306] FIRO
+[2018.05.01-14.25.07:597][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:599][995]LogBlueprintUserMessages: [PickupBox_C_307] FIRO
+[2018.05.01-14.25.07:613][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:614][995]LogBlueprintUserMessages: [PickupBox_C_308] FIRO
+[2018.05.01-14.25.07:629][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:630][995]LogBlueprintUserMessages: [PickupBox_C_309] FIRO
+[2018.05.01-14.25.07:645][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:646][995]LogBlueprintUserMessages: [PickupBox_C_310] FIRO
+[2018.05.01-14.25.07:661][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:662][995]LogBlueprintUserMessages: [PickupBox_C_311] FIRO
+[2018.05.01-14.25.07:676][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:677][995]LogBlueprintUserMessages: [PickupBox_C_312] FIRO
+[2018.05.01-14.25.07:691][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:692][995]LogBlueprintUserMessages: [PickupBox_C_313] FIRO
+[2018.05.01-14.25.07:706][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:707][995]LogBlueprintUserMessages: [PickupBox_C_314] FIRO
+[2018.05.01-14.25.07:720][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:721][995]LogBlueprintUserMessages: [PickupBox_C_315] FIRO
+[2018.05.01-14.25.07:734][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:735][995]LogBlueprintUserMessages: [PickupBox_C_316] FIRO
+[2018.05.01-14.25.07:748][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:749][995]LogBlueprintUserMessages: [PickupBox_C_317] FIRO
+[2018.05.01-14.25.07:763][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:764][995]LogBlueprintUserMessages: [PickupBox_C_318] FIRO
+[2018.05.01-14.25.07:778][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:779][995]LogBlueprintUserMessages: [PickupBox_C_319] FIRO
+[2018.05.01-14.25.07:793][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:794][995]LogBlueprintUserMessages: [PickupBox_C_320] FIRO
+[2018.05.01-14.25.07:807][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:808][995]LogBlueprintUserMessages: [PickupBox_C_321] FIRO
+[2018.05.01-14.25.07:821][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:822][995]LogBlueprintUserMessages: [PickupBox_C_322] FIRO
+[2018.05.01-14.25.07:836][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:837][995]LogBlueprintUserMessages: [PickupBox_C_323] FIRO
+[2018.05.01-14.25.07:850][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:851][995]LogBlueprintUserMessages: [PickupBox_C_324] FIRO
+[2018.05.01-14.25.07:864][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:865][995]LogBlueprintUserMessages: [PickupBox_C_325] FIRO
+[2018.05.01-14.25.07:878][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:879][995]LogBlueprintUserMessages: [PickupBox_C_326] FIRO
+[2018.05.01-14.25.07:892][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:893][995]LogBlueprintUserMessages: [PickupBox_C_327] FIRO
+[2018.05.01-14.25.07:907][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:907][995]LogBlueprintUserMessages: [PickupBox_C_328] FIRO
+[2018.05.01-14.25.07:920][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:921][995]LogBlueprintUserMessages: [PickupBox_C_329] FIRO
+[2018.05.01-14.25.07:935][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:937][995]LogBlueprintUserMessages: [PickupBox_C_330] FIRO
+[2018.05.01-14.25.07:952][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:953][995]LogBlueprintUserMessages: [PickupBox_C_331] FIRO
+[2018.05.01-14.25.07:967][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:969][995]LogBlueprintUserMessages: [PickupBox_C_332] FIRO
+[2018.05.01-14.25.07:983][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:984][995]LogBlueprintUserMessages: [PickupBox_C_333] FIRO
+[2018.05.01-14.25.07:998][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.07:999][995]LogBlueprintUserMessages: [PickupBox_C_334] FIRO
+[2018.05.01-14.25.08:013][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:014][995]LogBlueprintUserMessages: [PickupBox_C_335] FIRO
+[2018.05.01-14.25.08:027][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:028][995]LogBlueprintUserMessages: [PickupBox_C_336] FIRO
+[2018.05.01-14.25.08:043][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:044][995]LogBlueprintUserMessages: [PickupBox_C_337] FIRO
+[2018.05.01-14.25.08:062][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:063][995]LogBlueprintUserMessages: [PickupBox_C_338] FIRO
+[2018.05.01-14.25.08:080][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:081][995]LogBlueprintUserMessages: [PickupBox_C_339] FIRO
+[2018.05.01-14.25.08:098][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:099][995]LogBlueprintUserMessages: [PickupBox_C_340] FIRO
+[2018.05.01-14.25.08:116][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:117][995]LogBlueprintUserMessages: [PickupBox_C_341] FIRO
+[2018.05.01-14.25.08:133][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:134][995]LogBlueprintUserMessages: [PickupBox_C_342] FIRO
+[2018.05.01-14.25.08:150][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:151][995]LogBlueprintUserMessages: [PickupBox_C_343] FIRO
+[2018.05.01-14.25.08:166][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:167][995]LogBlueprintUserMessages: [PickupBox_C_344] FIRO
+[2018.05.01-14.25.08:182][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:183][995]LogBlueprintUserMessages: [PickupBox_C_345] FIRO
+[2018.05.01-14.25.08:198][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:199][995]LogBlueprintUserMessages: [PickupBox_C_346] FIRO
+[2018.05.01-14.25.08:215][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:216][995]LogBlueprintUserMessages: [PickupBox_C_347] FIRO
+[2018.05.01-14.25.08:232][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:233][995]LogBlueprintUserMessages: [PickupBox_C_348] FIRO
+[2018.05.01-14.25.08:249][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:251][995]LogBlueprintUserMessages: [PickupBox_C_349] FIRO
+[2018.05.01-14.25.08:266][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:267][995]LogBlueprintUserMessages: [PickupBox_C_350] FIRO
+[2018.05.01-14.25.08:283][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:284][995]LogBlueprintUserMessages: [PickupBox_C_351] FIRO
+[2018.05.01-14.25.08:300][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:301][995]LogBlueprintUserMessages: [PickupBox_C_352] FIRO
+[2018.05.01-14.25.08:317][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:318][995]LogBlueprintUserMessages: [PickupBox_C_353] FIRO
+[2018.05.01-14.25.08:333][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:334][995]LogBlueprintUserMessages: [PickupBox_C_354] FIRO
+[2018.05.01-14.25.08:350][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:351][995]LogBlueprintUserMessages: [PickupBox_C_355] FIRO
+[2018.05.01-14.25.08:365][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:366][995]LogBlueprintUserMessages: [PickupBox_C_356] FIRO
+[2018.05.01-14.25.08:383][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:384][995]LogBlueprintUserMessages: [PickupBox_C_357] FIRO
+[2018.05.01-14.25.08:399][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:400][995]LogBlueprintUserMessages: [PickupBox_C_358] FIRO
+[2018.05.01-14.25.08:415][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:416][995]LogBlueprintUserMessages: [PickupBox_C_359] FIRO
+[2018.05.01-14.25.08:431][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:432][995]LogBlueprintUserMessages: [PickupBox_C_360] FIRO
+[2018.05.01-14.25.08:448][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:449][995]LogBlueprintUserMessages: [PickupBox_C_361] FIRO
+[2018.05.01-14.25.08:466][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:467][995]LogBlueprintUserMessages: [PickupBox_C_362] FIRO
+[2018.05.01-14.25.08:484][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:485][995]LogBlueprintUserMessages: [PickupBox_C_363] FIRO
+[2018.05.01-14.25.08:500][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:501][995]LogBlueprintUserMessages: [PickupBox_C_364] FIRO
+[2018.05.01-14.25.08:517][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:518][995]LogBlueprintUserMessages: [PickupBox_C_365] FIRO
+[2018.05.01-14.25.08:534][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:535][995]LogBlueprintUserMessages: [PickupBox_C_366] FIRO
+[2018.05.01-14.25.08:551][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:552][995]LogBlueprintUserMessages: [PickupBox_C_367] FIRO
+[2018.05.01-14.25.08:567][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:568][995]LogBlueprintUserMessages: [PickupBox_C_368] FIRO
+[2018.05.01-14.25.08:586][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:587][995]LogBlueprintUserMessages: [PickupBox_C_369] FIRO
+[2018.05.01-14.25.08:605][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:606][995]LogBlueprintUserMessages: [PickupBox_C_370] FIRO
+[2018.05.01-14.25.08:628][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:630][995]LogBlueprintUserMessages: [PickupBox_C_371] FIRO
+[2018.05.01-14.25.08:654][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:656][995]LogBlueprintUserMessages: [PickupBox_C_372] FIRO
+[2018.05.01-14.25.08:674][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:675][995]LogBlueprintUserMessages: [PickupBox_C_373] FIRO
+[2018.05.01-14.25.08:692][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:693][995]LogBlueprintUserMessages: [PickupBox_C_374] FIRO
+[2018.05.01-14.25.08:710][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:711][995]LogBlueprintUserMessages: [PickupBox_C_375] FIRO
+[2018.05.01-14.25.08:733][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:734][995]LogBlueprintUserMessages: [PickupBox_C_376] FIRO
+[2018.05.01-14.25.08:750][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:752][995]LogBlueprintUserMessages: [PickupBox_C_377] FIRO
+[2018.05.01-14.25.08:768][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:769][995]LogBlueprintUserMessages: [PickupBox_C_378] FIRO
+[2018.05.01-14.25.08:786][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:787][995]LogBlueprintUserMessages: [PickupBox_C_379] FIRO
+[2018.05.01-14.25.08:805][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:806][995]LogBlueprintUserMessages: [PickupBox_C_380] FIRO
+[2018.05.01-14.25.08:824][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:825][995]LogBlueprintUserMessages: [PickupBox_C_381] FIRO
+[2018.05.01-14.25.08:842][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:843][995]LogBlueprintUserMessages: [PickupBox_C_382] FIRO
+[2018.05.01-14.25.08:860][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:861][995]LogBlueprintUserMessages: [PickupBox_C_383] FIRO
+[2018.05.01-14.25.08:879][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:880][995]LogBlueprintUserMessages: [PickupBox_C_384] FIRO
+[2018.05.01-14.25.08:897][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:898][995]LogBlueprintUserMessages: [PickupBox_C_385] FIRO
+[2018.05.01-14.25.08:915][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:916][995]LogBlueprintUserMessages: [PickupBox_C_386] FIRO
+[2018.05.01-14.25.08:934][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:935][995]LogBlueprintUserMessages: [PickupBox_C_387] FIRO
+[2018.05.01-14.25.08:953][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:954][995]LogBlueprintUserMessages: [PickupBox_C_388] FIRO
+[2018.05.01-14.25.08:972][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:973][995]LogBlueprintUserMessages: [PickupBox_C_389] FIRO
+[2018.05.01-14.25.08:992][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.08:993][995]LogBlueprintUserMessages: [PickupBox_C_390] FIRO
+[2018.05.01-14.25.09:013][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:014][995]LogBlueprintUserMessages: [PickupBox_C_391] FIRO
+[2018.05.01-14.25.09:034][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:035][995]LogBlueprintUserMessages: [PickupBox_C_392] FIRO
+[2018.05.01-14.25.09:054][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:055][995]LogBlueprintUserMessages: [PickupBox_C_393] FIRO
+[2018.05.01-14.25.09:073][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:074][995]LogBlueprintUserMessages: [PickupBox_C_394] FIRO
+[2018.05.01-14.25.09:093][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:094][995]LogBlueprintUserMessages: [PickupBox_C_395] FIRO
+[2018.05.01-14.25.09:113][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:114][995]LogBlueprintUserMessages: [PickupBox_C_396] FIRO
+[2018.05.01-14.25.09:134][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:135][995]LogBlueprintUserMessages: [PickupBox_C_397] FIRO
+[2018.05.01-14.25.09:155][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:156][995]LogBlueprintUserMessages: [PickupBox_C_398] FIRO
+[2018.05.01-14.25.09:174][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:176][995]LogBlueprintUserMessages: [PickupBox_C_399] FIRO
+[2018.05.01-14.25.09:194][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:195][995]LogBlueprintUserMessages: [PickupBox_C_400] FIRO
+[2018.05.01-14.25.09:213][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:215][995]LogBlueprintUserMessages: [PickupBox_C_401] FIRO
+[2018.05.01-14.25.09:236][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:237][995]LogBlueprintUserMessages: [PickupBox_C_402] FIRO
+[2018.05.01-14.25.09:257][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:258][995]LogBlueprintUserMessages: [PickupBox_C_403] FIRO
+[2018.05.01-14.25.09:277][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:278][995]LogBlueprintUserMessages: [PickupBox_C_404] FIRO
+[2018.05.01-14.25.09:297][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:299][995]LogBlueprintUserMessages: [PickupBox_C_405] FIRO
+[2018.05.01-14.25.09:318][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:319][995]LogBlueprintUserMessages: [PickupBox_C_406] FIRO
+[2018.05.01-14.25.09:340][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:342][995]LogBlueprintUserMessages: [PickupBox_C_407] FIRO
+[2018.05.01-14.25.09:363][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:364][995]LogBlueprintUserMessages: [PickupBox_C_408] FIRO
+[2018.05.01-14.25.09:385][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:386][995]LogBlueprintUserMessages: [PickupBox_C_409] FIRO
+[2018.05.01-14.25.09:406][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:408][995]LogBlueprintUserMessages: [PickupBox_C_410] FIRO
+[2018.05.01-14.25.09:429][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:431][995]LogBlueprintUserMessages: [PickupBox_C_411] FIRO
+[2018.05.01-14.25.09:452][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:453][995]LogBlueprintUserMessages: [PickupBox_C_412] FIRO
+[2018.05.01-14.25.09:474][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:475][995]LogBlueprintUserMessages: [PickupBox_C_413] FIRO
+[2018.05.01-14.25.09:496][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:497][995]LogBlueprintUserMessages: [PickupBox_C_414] FIRO
+[2018.05.01-14.25.09:518][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:519][995]LogBlueprintUserMessages: [PickupBox_C_415] FIRO
+[2018.05.01-14.25.09:539][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:540][995]LogBlueprintUserMessages: [PickupBox_C_416] FIRO
+[2018.05.01-14.25.09:560][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:561][995]LogBlueprintUserMessages: [PickupBox_C_417] FIRO
+[2018.05.01-14.25.09:581][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:582][995]LogBlueprintUserMessages: [PickupBox_C_418] FIRO
+[2018.05.01-14.25.09:602][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:603][995]LogBlueprintUserMessages: [PickupBox_C_419] FIRO
+[2018.05.01-14.25.09:623][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:624][995]LogBlueprintUserMessages: [PickupBox_C_420] FIRO
+[2018.05.01-14.25.09:646][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:647][995]LogBlueprintUserMessages: [PickupBox_C_421] FIRO
+[2018.05.01-14.25.09:667][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:669][995]LogBlueprintUserMessages: [PickupBox_C_422] FIRO
+[2018.05.01-14.25.09:688][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:689][995]LogBlueprintUserMessages: [PickupBox_C_423] FIRO
+[2018.05.01-14.25.09:711][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:712][995]LogBlueprintUserMessages: [PickupBox_C_424] FIRO
+[2018.05.01-14.25.09:733][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:735][995]LogBlueprintUserMessages: [PickupBox_C_425] FIRO
+[2018.05.01-14.25.09:755][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:756][995]LogBlueprintUserMessages: [PickupBox_C_426] FIRO
+[2018.05.01-14.25.09:778][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:779][995]LogBlueprintUserMessages: [PickupBox_C_427] FIRO
+[2018.05.01-14.25.09:800][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:801][995]LogBlueprintUserMessages: [PickupBox_C_428] FIRO
+[2018.05.01-14.25.09:822][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:823][995]LogBlueprintUserMessages: [PickupBox_C_429] FIRO
+[2018.05.01-14.25.09:846][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:847][995]LogBlueprintUserMessages: [PickupBox_C_430] FIRO
+[2018.05.01-14.25.09:868][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:869][995]LogBlueprintUserMessages: [PickupBox_C_431] FIRO
+[2018.05.01-14.25.09:890][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:891][995]LogBlueprintUserMessages: [PickupBox_C_432] FIRO
+[2018.05.01-14.25.09:912][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:913][995]LogBlueprintUserMessages: [PickupBox_C_433] FIRO
+[2018.05.01-14.25.09:934][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:935][995]LogBlueprintUserMessages: [PickupBox_C_434] FIRO
+[2018.05.01-14.25.09:956][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:957][995]LogBlueprintUserMessages: [PickupBox_C_435] FIRO
+[2018.05.01-14.25.09:980][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.09:981][995]LogBlueprintUserMessages: [PickupBox_C_436] FIRO
+[2018.05.01-14.25.10:003][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:004][995]LogBlueprintUserMessages: [PickupBox_C_437] FIRO
+[2018.05.01-14.25.10:026][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:027][995]LogBlueprintUserMessages: [PickupBox_C_438] FIRO
+[2018.05.01-14.25.10:048][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:049][995]LogBlueprintUserMessages: [PickupBox_C_439] FIRO
+[2018.05.01-14.25.10:071][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:072][995]LogBlueprintUserMessages: [PickupBox_C_440] FIRO
+[2018.05.01-14.25.10:094][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:095][995]LogBlueprintUserMessages: [PickupBox_C_441] FIRO
+[2018.05.01-14.25.10:118][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:119][995]LogBlueprintUserMessages: [PickupBox_C_442] FIRO
+[2018.05.01-14.25.10:141][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:142][995]LogBlueprintUserMessages: [PickupBox_C_443] FIRO
+[2018.05.01-14.25.10:165][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:166][995]LogBlueprintUserMessages: [PickupBox_C_444] FIRO
+[2018.05.01-14.25.10:189][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:190][995]LogBlueprintUserMessages: [PickupBox_C_445] FIRO
+[2018.05.01-14.25.10:211][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:212][995]LogBlueprintUserMessages: [PickupBox_C_446] FIRO
+[2018.05.01-14.25.10:234][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:235][995]LogBlueprintUserMessages: [PickupBox_C_447] FIRO
+[2018.05.01-14.25.10:258][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:259][995]LogBlueprintUserMessages: [PickupBox_C_448] FIRO
+[2018.05.01-14.25.10:284][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:285][995]LogBlueprintUserMessages: [PickupBox_C_449] FIRO
+[2018.05.01-14.25.10:308][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:309][995]LogBlueprintUserMessages: [PickupBox_C_450] FIRO
+[2018.05.01-14.25.10:332][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:333][995]LogBlueprintUserMessages: [PickupBox_C_451] FIRO
+[2018.05.01-14.25.10:355][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:356][995]LogBlueprintUserMessages: [PickupBox_C_452] FIRO
+[2018.05.01-14.25.10:379][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:380][995]LogBlueprintUserMessages: [PickupBox_C_453] FIRO
+[2018.05.01-14.25.10:403][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:405][995]LogBlueprintUserMessages: [PickupBox_C_454] FIRO
+[2018.05.01-14.25.10:431][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:433][995]LogBlueprintUserMessages: [PickupBox_C_455] FIRO
+[2018.05.01-14.25.10:458][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:459][995]LogBlueprintUserMessages: [PickupBox_C_456] FIRO
+[2018.05.01-14.25.10:485][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:486][995]LogBlueprintUserMessages: [PickupBox_C_457] FIRO
+[2018.05.01-14.25.10:510][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:511][995]LogBlueprintUserMessages: [PickupBox_C_458] FIRO
+[2018.05.01-14.25.10:535][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:536][995]LogBlueprintUserMessages: [PickupBox_C_459] FIRO
+[2018.05.01-14.25.10:559][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:560][995]LogBlueprintUserMessages: [PickupBox_C_460] FIRO
+[2018.05.01-14.25.10:585][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:586][995]LogBlueprintUserMessages: [PickupBox_C_461] FIRO
+[2018.05.01-14.25.10:611][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:612][995]LogBlueprintUserMessages: [PickupBox_C_462] FIRO
+[2018.05.01-14.25.10:635][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:636][995]LogBlueprintUserMessages: [PickupBox_C_463] FIRO
+[2018.05.01-14.25.10:662][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:663][995]LogBlueprintUserMessages: [PickupBox_C_464] FIRO
+[2018.05.01-14.25.10:688][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:689][995]LogBlueprintUserMessages: [PickupBox_C_465] FIRO
+[2018.05.01-14.25.10:713][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:714][995]LogBlueprintUserMessages: [PickupBox_C_466] FIRO
+[2018.05.01-14.25.10:739][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:740][995]LogBlueprintUserMessages: [PickupBox_C_467] FIRO
+[2018.05.01-14.25.10:764][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:765][995]LogBlueprintUserMessages: [PickupBox_C_468] FIRO
+[2018.05.01-14.25.10:790][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:791][995]LogBlueprintUserMessages: [PickupBox_C_469] FIRO
+[2018.05.01-14.25.10:815][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:816][995]LogBlueprintUserMessages: [PickupBox_C_470] FIRO
+[2018.05.01-14.25.10:845][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:846][995]LogBlueprintUserMessages: [PickupBox_C_471] FIRO
+[2018.05.01-14.25.10:878][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:879][995]LogBlueprintUserMessages: [PickupBox_C_472] FIRO
+[2018.05.01-14.25.10:908][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:909][995]LogBlueprintUserMessages: [PickupBox_C_473] FIRO
+[2018.05.01-14.25.10:937][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:938][995]LogBlueprintUserMessages: [PickupBox_C_474] FIRO
+[2018.05.01-14.25.10:965][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:966][995]LogBlueprintUserMessages: [PickupBox_C_475] FIRO
+[2018.05.01-14.25.10:992][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.10:993][995]LogBlueprintUserMessages: [PickupBox_C_476] FIRO
+[2018.05.01-14.25.11:018][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:019][995]LogBlueprintUserMessages: [PickupBox_C_477] FIRO
+[2018.05.01-14.25.11:044][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:046][995]LogBlueprintUserMessages: [PickupBox_C_478] FIRO
+[2018.05.01-14.25.11:072][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:073][995]LogBlueprintUserMessages: [PickupBox_C_479] FIRO
+[2018.05.01-14.25.11:098][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:099][995]LogBlueprintUserMessages: [PickupBox_C_480] FIRO
+[2018.05.01-14.25.11:125][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:126][995]LogBlueprintUserMessages: [PickupBox_C_481] FIRO
+[2018.05.01-14.25.11:154][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:155][995]LogBlueprintUserMessages: [PickupBox_C_482] FIRO
+[2018.05.01-14.25.11:182][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:183][995]LogBlueprintUserMessages: [PickupBox_C_483] FIRO
+[2018.05.01-14.25.11:210][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:211][995]LogBlueprintUserMessages: [PickupBox_C_484] FIRO
+[2018.05.01-14.25.11:238][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:239][995]LogBlueprintUserMessages: [PickupBox_C_485] FIRO
+[2018.05.01-14.25.11:265][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:266][995]LogBlueprintUserMessages: [PickupBox_C_486] FIRO
+[2018.05.01-14.25.11:294][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:296][995]LogBlueprintUserMessages: [PickupBox_C_487] FIRO
+[2018.05.01-14.25.11:324][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:325][995]LogBlueprintUserMessages: [PickupBox_C_488] FIRO
+[2018.05.01-14.25.11:353][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:354][995]LogBlueprintUserMessages: [PickupBox_C_489] FIRO
+[2018.05.01-14.25.11:380][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:381][995]LogBlueprintUserMessages: [PickupBox_C_490] FIRO
+[2018.05.01-14.25.11:407][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:408][995]LogBlueprintUserMessages: [PickupBox_C_491] FIRO
+[2018.05.01-14.25.11:435][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:436][995]LogBlueprintUserMessages: [PickupBox_C_492] FIRO
+[2018.05.01-14.25.11:462][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:463][995]LogBlueprintUserMessages: [PickupBox_C_493] FIRO
+[2018.05.01-14.25.11:492][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:493][995]LogBlueprintUserMessages: [PickupBox_C_494] FIRO
+[2018.05.01-14.25.11:521][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:522][995]LogBlueprintUserMessages: [PickupBox_C_495] FIRO
+[2018.05.01-14.25.11:549][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:550][995]LogBlueprintUserMessages: [PickupBox_C_496] FIRO
+[2018.05.01-14.25.11:576][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:577][995]LogBlueprintUserMessages: [PickupBox_C_497] FIRO
+[2018.05.01-14.25.11:604][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:605][995]LogBlueprintUserMessages: [PickupBox_C_498] FIRO
+[2018.05.01-14.25.11:634][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:636][995]LogBlueprintUserMessages: [PickupBox_C_499] FIRO
+[2018.05.01-14.25.11:665][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:667][995]LogBlueprintUserMessages: [PickupBox_C_500] FIRO
+[2018.05.01-14.25.11:704][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:705][995]LogBlueprintUserMessages: [PickupBox_C_501] FIRO
+[2018.05.01-14.25.11:737][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:739][995]LogBlueprintUserMessages: [PickupBox_C_502] FIRO
+[2018.05.01-14.25.11:769][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:770][995]LogBlueprintUserMessages: [PickupBox_C_503] FIRO
+[2018.05.01-14.25.11:802][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:803][995]LogBlueprintUserMessages: [PickupBox_C_504] FIRO
+[2018.05.01-14.25.11:834][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:836][995]LogBlueprintUserMessages: [PickupBox_C_505] FIRO
+[2018.05.01-14.25.11:865][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:866][995]LogBlueprintUserMessages: [PickupBox_C_506] FIRO
+[2018.05.01-14.25.11:894][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:895][995]LogBlueprintUserMessages: [PickupBox_C_507] FIRO
+[2018.05.01-14.25.11:922][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:923][995]LogBlueprintUserMessages: [PickupBox_C_508] FIRO
+[2018.05.01-14.25.11:951][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:952][995]LogBlueprintUserMessages: [PickupBox_C_509] FIRO
+[2018.05.01-14.25.11:980][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.11:982][995]LogBlueprintUserMessages: [PickupBox_C_510] FIRO
+[2018.05.01-14.25.12:009][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:010][995]LogBlueprintUserMessages: [PickupBox_C_511] FIRO
+[2018.05.01-14.25.12:042][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:043][995]LogBlueprintUserMessages: [PickupBox_C_512] FIRO
+[2018.05.01-14.25.12:075][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:076][995]LogBlueprintUserMessages: [PickupBox_C_513] FIRO
+[2018.05.01-14.25.12:108][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:109][995]LogBlueprintUserMessages: [PickupBox_C_514] FIRO
+[2018.05.01-14.25.12:139][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:140][995]LogBlueprintUserMessages: [PickupBox_C_515] FIRO
+[2018.05.01-14.25.12:169][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:170][995]LogBlueprintUserMessages: [PickupBox_C_516] FIRO
+[2018.05.01-14.25.12:200][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:201][995]LogBlueprintUserMessages: [PickupBox_C_517] FIRO
+[2018.05.01-14.25.12:229][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:230][995]LogBlueprintUserMessages: [PickupBox_C_518] FIRO
+[2018.05.01-14.25.12:259][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:260][995]LogBlueprintUserMessages: [PickupBox_C_519] FIRO
+[2018.05.01-14.25.12:290][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:291][995]LogBlueprintUserMessages: [PickupBox_C_520] FIRO
+[2018.05.01-14.25.12:320][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:321][995]LogBlueprintUserMessages: [PickupBox_C_521] FIRO
+[2018.05.01-14.25.12:350][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:351][995]LogBlueprintUserMessages: [PickupBox_C_522] FIRO
+[2018.05.01-14.25.12:381][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:382][995]LogBlueprintUserMessages: [PickupBox_C_523] FIRO
+[2018.05.01-14.25.12:414][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:415][995]LogBlueprintUserMessages: [PickupBox_C_524] FIRO
+[2018.05.01-14.25.12:447][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:448][995]LogBlueprintUserMessages: [PickupBox_C_525] FIRO
+[2018.05.01-14.25.12:480][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:481][995]LogBlueprintUserMessages: [PickupBox_C_526] FIRO
+[2018.05.01-14.25.12:515][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:516][995]LogBlueprintUserMessages: [PickupBox_C_527] FIRO
+[2018.05.01-14.25.12:549][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:550][995]LogBlueprintUserMessages: [PickupBox_C_528] FIRO
+[2018.05.01-14.25.12:581][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:582][995]LogBlueprintUserMessages: [PickupBox_C_529] FIRO
+[2018.05.01-14.25.12:614][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:616][995]LogBlueprintUserMessages: [PickupBox_C_530] FIRO
+[2018.05.01-14.25.12:648][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:650][995]LogBlueprintUserMessages: [PickupBox_C_531] FIRO
+[2018.05.01-14.25.12:681][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:682][995]LogBlueprintUserMessages: [PickupBox_C_532] FIRO
+[2018.05.01-14.25.12:718][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:719][995]LogBlueprintUserMessages: [PickupBox_C_533] FIRO
+[2018.05.01-14.25.12:752][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:754][995]LogBlueprintUserMessages: [PickupBox_C_534] FIRO
+[2018.05.01-14.25.12:785][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:786][995]LogBlueprintUserMessages: [PickupBox_C_535] FIRO
+[2018.05.01-14.25.12:817][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:818][995]LogBlueprintUserMessages: [PickupBox_C_536] FIRO
+[2018.05.01-14.25.12:855][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:857][995]LogBlueprintUserMessages: [PickupBox_C_537] FIRO
+[2018.05.01-14.25.12:896][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:897][995]LogBlueprintUserMessages: [PickupBox_C_538] FIRO
+[2018.05.01-14.25.12:940][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:942][995]LogBlueprintUserMessages: [PickupBox_C_539] FIRO
+[2018.05.01-14.25.12:982][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.12:984][995]LogBlueprintUserMessages: [PickupBox_C_540] FIRO
+[2018.05.01-14.25.13:025][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:026][995]LogBlueprintUserMessages: [PickupBox_C_541] FIRO
+[2018.05.01-14.25.13:077][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:078][995]LogBlueprintUserMessages: [PickupBox_C_542] FIRO
+[2018.05.01-14.25.13:224][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:226][995]LogBlueprintUserMessages: [PickupBox_C_543] FIRO
+[2018.05.01-14.25.13:312][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:313][995]LogBlueprintUserMessages: [PickupBox_C_544] FIRO
+[2018.05.01-14.25.13:364][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:366][995]LogBlueprintUserMessages: [PickupBox_C_545] FIRO
+[2018.05.01-14.25.13:418][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:420][995]LogBlueprintUserMessages: [PickupBox_C_546] FIRO
+[2018.05.01-14.25.13:475][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:477][995]LogBlueprintUserMessages: [PickupBox_C_547] FIRO
+[2018.05.01-14.25.13:539][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:541][995]LogBlueprintUserMessages: [PickupBox_C_548] FIRO
+[2018.05.01-14.25.13:593][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:595][995]LogBlueprintUserMessages: [PickupBox_C_549] FIRO
+[2018.05.01-14.25.13:652][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:655][995]LogBlueprintUserMessages: [PickupBox_C_550] FIRO
+[2018.05.01-14.25.13:728][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:732][995]LogBlueprintUserMessages: [PickupBox_C_551] FIRO
+[2018.05.01-14.25.13:802][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:803][995]LogBlueprintUserMessages: [PickupBox_C_552] FIRO
+[2018.05.01-14.25.13:858][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:860][995]LogBlueprintUserMessages: [PickupBox_C_553] FIRO
+[2018.05.01-14.25.13:905][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:907][995]LogBlueprintUserMessages: [PickupBox_C_554] FIRO
+[2018.05.01-14.25.13:948][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:950][995]LogBlueprintUserMessages: [PickupBox_C_555] FIRO
+[2018.05.01-14.25.13:991][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.13:993][995]LogBlueprintUserMessages: [PickupBox_C_556] FIRO
+[2018.05.01-14.25.14:034][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:035][995]LogBlueprintUserMessages: [PickupBox_C_557] FIRO
+[2018.05.01-14.25.14:079][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:081][995]LogBlueprintUserMessages: [PickupBox_C_558] FIRO
+[2018.05.01-14.25.14:124][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:125][995]LogBlueprintUserMessages: [PickupBox_C_559] FIRO
+[2018.05.01-14.25.14:166][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:168][995]LogBlueprintUserMessages: [PickupBox_C_560] FIRO
+[2018.05.01-14.25.14:208][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:210][995]LogBlueprintUserMessages: [PickupBox_C_561] FIRO
+[2018.05.01-14.25.14:254][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:256][995]LogBlueprintUserMessages: [PickupBox_C_562] FIRO
+[2018.05.01-14.25.14:303][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:304][995]LogBlueprintUserMessages: [PickupBox_C_563] FIRO
+[2018.05.01-14.25.14:353][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:354][995]LogBlueprintUserMessages: [PickupBox_C_564] FIRO
+[2018.05.01-14.25.14:398][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:399][995]LogBlueprintUserMessages: [PickupBox_C_565] FIRO
+[2018.05.01-14.25.14:439][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:440][995]LogBlueprintUserMessages: [PickupBox_C_566] FIRO
+[2018.05.01-14.25.14:477][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:478][995]LogBlueprintUserMessages: [PickupBox_C_567] FIRO
+[2018.05.01-14.25.14:513][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:515][995]LogBlueprintUserMessages: [PickupBox_C_568] FIRO
+[2018.05.01-14.25.14:548][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:549][995]LogBlueprintUserMessages: [PickupBox_C_569] FIRO
+[2018.05.01-14.25.14:585][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:586][995]LogBlueprintUserMessages: [PickupBox_C_570] FIRO
+[2018.05.01-14.25.14:600][995]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	RecursivePCStation_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.RecursivePCStation_C_241
+	Function /Game/ThirdPersonBP/MapComponents/RecursivePCStation.RecursivePCStation_C:ExecuteUbergraph_RecursivePCStation:017E
+[2018.05.01-14.25.14:601][995]PIE: Error: Infinite Loop detected in  RecursivePCStation , asserted during  OnComponentBeginOverlap_Event_0 with the following  Call Stack
+[2018.05.01-14.25.14:623][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:625][995]LogBlueprintUserMessages: [PickupBox_C_571] FIRO
+[2018.05.01-14.25.14:660][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:661][995]LogBlueprintUserMessages: [PickupBox_C_572] FIRO
+[2018.05.01-14.25.14:695][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:696][995]LogBlueprintUserMessages: [PickupBox_C_573] FIRO
+[2018.05.01-14.25.14:736][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:738][995]LogBlueprintUserMessages: [PickupBox_C_574] FIRO
+[2018.05.01-14.25.14:775][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:777][995]LogBlueprintUserMessages: [PickupBox_C_575] FIRO
+[2018.05.01-14.25.14:813][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:815][995]LogBlueprintUserMessages: [PickupBox_C_576] FIRO
+[2018.05.01-14.25.14:852][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:853][995]LogBlueprintUserMessages: [PickupBox_C_577] FIRO
+[2018.05.01-14.25.14:890][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:892][995]LogBlueprintUserMessages: [PickupBox_C_578] FIRO
+[2018.05.01-14.25.14:932][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:933][995]LogBlueprintUserMessages: [PickupBox_C_579] FIRO
+[2018.05.01-14.25.14:973][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.14:975][995]LogBlueprintUserMessages: [PickupBox_C_580] FIRO
+[2018.05.01-14.25.15:013][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:014][995]LogBlueprintUserMessages: [PickupBox_C_581] FIRO
+[2018.05.01-14.25.15:053][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:055][995]LogBlueprintUserMessages: [PickupBox_C_582] FIRO
+[2018.05.01-14.25.15:109][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:110][995]LogBlueprintUserMessages: [PickupBox_C_583] FIRO
+[2018.05.01-14.25.15:157][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:158][995]LogBlueprintUserMessages: [PickupBox_C_584] FIRO
+[2018.05.01-14.25.15:202][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:204][995]LogBlueprintUserMessages: [PickupBox_C_585] FIRO
+[2018.05.01-14.25.15:251][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:252][995]LogBlueprintUserMessages: [PickupBox_C_586] FIRO
+[2018.05.01-14.25.15:303][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:305][995]LogBlueprintUserMessages: [PickupBox_C_587] FIRO
+[2018.05.01-14.25.15:358][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:360][995]LogBlueprintUserMessages: [PickupBox_C_588] FIRO
+[2018.05.01-14.25.15:411][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:413][995]LogBlueprintUserMessages: [PickupBox_C_589] FIRO
+[2018.05.01-14.25.15:465][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:467][995]LogBlueprintUserMessages: [PickupBox_C_590] FIRO
+[2018.05.01-14.25.15:519][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:521][995]LogBlueprintUserMessages: [PickupBox_C_591] FIRO
+[2018.05.01-14.25.15:568][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:569][995]LogBlueprintUserMessages: [PickupBox_C_592] FIRO
+[2018.05.01-14.25.15:612][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:613][995]LogBlueprintUserMessages: [PickupBox_C_593] FIRO
+[2018.05.01-14.25.15:656][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:657][995]LogBlueprintUserMessages: [PickupBox_C_594] FIRO
+[2018.05.01-14.25.15:699][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:700][995]LogBlueprintUserMessages: [PickupBox_C_595] FIRO
+[2018.05.01-14.25.15:742][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:743][995]LogBlueprintUserMessages: [PickupBox_C_596] FIRO
+[2018.05.01-14.25.15:783][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:785][995]LogBlueprintUserMessages: [PickupBox_C_597] FIRO
+[2018.05.01-14.25.15:823][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:824][995]LogBlueprintUserMessages: [PickupBox_C_598] FIRO
+[2018.05.01-14.25.15:866][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:868][995]LogBlueprintUserMessages: [PickupBox_C_599] FIRO
+[2018.05.01-14.25.15:912][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:914][995]LogBlueprintUserMessages: [PickupBox_C_600] FIRO
+[2018.05.01-14.25.15:958][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.15:959][995]LogBlueprintUserMessages: [PickupBox_C_601] FIRO
+[2018.05.01-14.25.16:001][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:002][995]LogBlueprintUserMessages: [PickupBox_C_602] FIRO
+[2018.05.01-14.25.16:041][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:043][995]LogBlueprintUserMessages: [PickupBox_C_603] FIRO
+[2018.05.01-14.25.16:083][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:084][995]LogBlueprintUserMessages: [PickupBox_C_604] FIRO
+[2018.05.01-14.25.16:130][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:132][995]LogBlueprintUserMessages: [PickupBox_C_605] FIRO
+[2018.05.01-14.25.16:176][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:178][995]LogBlueprintUserMessages: [PickupBox_C_606] FIRO
+[2018.05.01-14.25.16:221][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:222][995]LogBlueprintUserMessages: [PickupBox_C_607] FIRO
+[2018.05.01-14.25.16:264][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:265][995]LogBlueprintUserMessages: [PickupBox_C_608] FIRO
+[2018.05.01-14.25.16:308][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:309][995]LogBlueprintUserMessages: [PickupBox_C_609] FIRO
+[2018.05.01-14.25.16:352][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:354][995]LogBlueprintUserMessages: [PickupBox_C_610] FIRO
+[2018.05.01-14.25.16:401][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:402][995]LogBlueprintUserMessages: [PickupBox_C_611] FIRO
+[2018.05.01-14.25.16:446][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:447][995]LogBlueprintUserMessages: [PickupBox_C_612] FIRO
+[2018.05.01-14.25.16:489][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:490][995]LogBlueprintUserMessages: [PickupBox_C_613] FIRO
+[2018.05.01-14.25.16:534][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:536][995]LogBlueprintUserMessages: [PickupBox_C_614] FIRO
+[2018.05.01-14.25.16:579][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:581][995]LogBlueprintUserMessages: [PickupBox_C_615] FIRO
+[2018.05.01-14.25.16:624][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:625][995]LogBlueprintUserMessages: [PickupBox_C_616] FIRO
+[2018.05.01-14.25.16:666][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:668][995]LogBlueprintUserMessages: [PickupBox_C_617] FIRO
+[2018.05.01-14.25.16:712][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:713][995]LogBlueprintUserMessages: [PickupBox_C_618] FIRO
+[2018.05.01-14.25.16:758][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:760][995]LogBlueprintUserMessages: [PickupBox_C_619] FIRO
+[2018.05.01-14.25.16:803][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:804][995]LogBlueprintUserMessages: [PickupBox_C_620] FIRO
+[2018.05.01-14.25.16:846][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:847][995]LogBlueprintUserMessages: [PickupBox_C_621] FIRO
+[2018.05.01-14.25.16:889][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:891][995]LogBlueprintUserMessages: [PickupBox_C_622] FIRO
+[2018.05.01-14.25.16:933][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:934][995]LogBlueprintUserMessages: [PickupBox_C_623] FIRO
+[2018.05.01-14.25.16:974][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.16:975][995]LogBlueprintUserMessages: [PickupBox_C_624] FIRO
+[2018.05.01-14.25.17:017][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:018][995]LogBlueprintUserMessages: [PickupBox_C_625] FIRO
+[2018.05.01-14.25.17:059][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:061][995]LogBlueprintUserMessages: [PickupBox_C_626] FIRO
+[2018.05.01-14.25.17:101][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:102][995]LogBlueprintUserMessages: [PickupBox_C_627] FIRO
+[2018.05.01-14.25.17:146][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:147][995]LogBlueprintUserMessages: [PickupBox_C_628] FIRO
+[2018.05.01-14.25.17:191][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:192][995]LogBlueprintUserMessages: [PickupBox_C_629] FIRO
+[2018.05.01-14.25.17:236][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:237][995]LogBlueprintUserMessages: [PickupBox_C_630] FIRO
+[2018.05.01-14.25.17:281][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:282][995]LogBlueprintUserMessages: [PickupBox_C_631] FIRO
+[2018.05.01-14.25.17:329][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:331][995]LogBlueprintUserMessages: [PickupBox_C_632] FIRO
+[2018.05.01-14.25.17:377][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:379][995]LogBlueprintUserMessages: [PickupBox_C_633] FIRO
+[2018.05.01-14.25.17:423][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:424][995]LogBlueprintUserMessages: [PickupBox_C_634] FIRO
+[2018.05.01-14.25.17:468][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:469][995]LogBlueprintUserMessages: [PickupBox_C_635] FIRO
+[2018.05.01-14.25.17:512][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:513][995]LogBlueprintUserMessages: [PickupBox_C_636] FIRO
+[2018.05.01-14.25.17:553][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:555][995]LogBlueprintUserMessages: [PickupBox_C_637] FIRO
+[2018.05.01-14.25.17:595][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:596][995]LogBlueprintUserMessages: [PickupBox_C_638] FIRO
+[2018.05.01-14.25.17:637][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:638][995]LogBlueprintUserMessages: [PickupBox_C_639] FIRO
+[2018.05.01-14.25.17:680][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:681][995]LogBlueprintUserMessages: [PickupBox_C_640] FIRO
+[2018.05.01-14.25.17:721][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:722][995]LogBlueprintUserMessages: [PickupBox_C_641] FIRO
+[2018.05.01-14.25.17:763][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:764][995]LogBlueprintUserMessages: [PickupBox_C_642] FIRO
+[2018.05.01-14.25.17:806][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:807][995]LogBlueprintUserMessages: [PickupBox_C_643] FIRO
+[2018.05.01-14.25.17:850][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:851][995]LogBlueprintUserMessages: [PickupBox_C_644] FIRO
+[2018.05.01-14.25.17:892][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:893][995]LogBlueprintUserMessages: [PickupBox_C_645] FIRO
+[2018.05.01-14.25.17:935][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:936][995]LogBlueprintUserMessages: [PickupBox_C_646] FIRO
+[2018.05.01-14.25.17:977][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.17:978][995]LogBlueprintUserMessages: [PickupBox_C_647] FIRO
+[2018.05.01-14.25.18:025][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:026][995]LogBlueprintUserMessages: [PickupBox_C_648] FIRO
+[2018.05.01-14.25.18:074][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:075][995]LogBlueprintUserMessages: [PickupBox_C_649] FIRO
+[2018.05.01-14.25.18:119][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:120][995]LogBlueprintUserMessages: [PickupBox_C_650] FIRO
+[2018.05.01-14.25.18:164][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:165][995]LogBlueprintUserMessages: [PickupBox_C_651] FIRO
+[2018.05.01-14.25.18:213][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:214][995]LogBlueprintUserMessages: [PickupBox_C_652] FIRO
+[2018.05.01-14.25.18:260][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:261][995]LogBlueprintUserMessages: [PickupBox_C_653] FIRO
+[2018.05.01-14.25.18:311][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:320][995]LogBlueprintUserMessages: [PickupBox_C_654] FIRO
+[2018.05.01-14.25.18:381][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:383][995]LogBlueprintUserMessages: [PickupBox_C_655] FIRO
+[2018.05.01-14.25.18:434][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:435][995]LogBlueprintUserMessages: [PickupBox_C_656] FIRO
+[2018.05.01-14.25.18:485][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:486][995]LogBlueprintUserMessages: [PickupBox_C_657] FIRO
+[2018.05.01-14.25.18:534][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:535][995]LogBlueprintUserMessages: [PickupBox_C_658] FIRO
+[2018.05.01-14.25.18:583][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:584][995]LogBlueprintUserMessages: [PickupBox_C_659] FIRO
+[2018.05.01-14.25.18:634][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:636][995]LogBlueprintUserMessages: [PickupBox_C_660] FIRO
+[2018.05.01-14.25.18:684][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:685][995]LogBlueprintUserMessages: [PickupBox_C_661] FIRO
+[2018.05.01-14.25.18:732][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:734][995]LogBlueprintUserMessages: [PickupBox_C_662] FIRO
+[2018.05.01-14.25.18:783][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:785][995]LogBlueprintUserMessages: [PickupBox_C_663] FIRO
+[2018.05.01-14.25.18:836][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:837][995]LogBlueprintUserMessages: [PickupBox_C_664] FIRO
+[2018.05.01-14.25.18:885][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:887][995]LogBlueprintUserMessages: [PickupBox_C_665] FIRO
+[2018.05.01-14.25.18:933][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:935][995]LogBlueprintUserMessages: [PickupBox_C_666] FIRO
+[2018.05.01-14.25.18:979][995]LogBlueprintUserMessages: [RecursiveLevelAlternative_470] Player position is now: X=-3015.380 Y=978.761 Z=107.271
+[2018.05.01-14.25.18:980][995]LogBlueprintUserMessages: [PickupBox_C_667] FIRO
